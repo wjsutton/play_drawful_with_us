@@ -1,6 +1,6 @@
 <h1 style="font-weight:normal"> 
   Interpreting Art | Iron Viz 2022 :artist:
-  aka Play Drawful with Us
+  <br>aka Play Drawful with Us
 </h1>
 
 A data viz project exploring interpretations of images from Drawful 2.
