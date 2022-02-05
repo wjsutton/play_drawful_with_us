@@ -1,0 +1,44 @@
+﻿image,row,col,position,position_num,response_text,x,y,type,assigned_response_id
+img-1,1,1,A,1,walk of shame,1.35,0.9,response,1
+img-1,1,1,B,2,sad seed sower,0.8,1.05,response,2
+img-1,1,1,C,3,all up hill,0.838196601,0.75,response,3
+img-1,1,1,D,4,handheld tatoo machine,1.25,1.15,response,4
+img-1,1,1,E,5,following breadcrumbs,1.325,0.65,response,5
+img-1,1,1,A,1,,1.3,1,image,
+img-2,1,2,A,1,hostile takeover,2.1,1.2,response,1
+img-2,1,2,B,2,fighting cars,2.18,0.65,response,2
+img-2,1,2,C,3,fight to be last,1.72,0.8,response,3
+img-2,1,2,D,4,youth psychiatry,2.25,0.9,response,4
+img-2,1,2,E,5,punch and drive,1.78,1.12,response,5
+img-2,1,2,A,1,,1.7,1,image,
+img-3,2,1,A,1,sports montage,0.775,1.85,response,1
+img-3,2,1,B,2,ball playing triplets,0.825,2.125,response,2
+img-3,2,1,C,3,"whatever it is, i love it",1.25,2.175,response,3
+img-3,2,1,D,4,"learn japanese
+online",0.82,1.6,response,4
+img-3,2,1,E,5,ball becomes child,1.3,1.85,response,5
+img-3,2,1,A,1,,1.3,2,image,
+img-4,2,2,A,1,ted bundy's banjo,2.22,1.65,response,1
+img-4,2,2,B,2,poisoned guitar,2.25,1.95,response,2
+img-4,2,2,C,3,chainsaw massacre,2.2,2.225,response,3
+img-4,2,2,D,4,man with gun,1.75,1.75,response,4
+img-4,2,2,E,5,death by leaf blower,1.75,2.15,response,5
+img-4,2,2,A,1,,1.7,2,image,
+img-5,3,1,A,1,meat sweats,1.325,2.75,response,1
+img-5,3,1,B,2,"australian sheep 
+love drumsticks",0.87,3.246869806,response,2
+img-5,3,1,C,3,"raining dogs up 
+and down",0.8,2.9,response,3
+img-5,3,1,D,4,"sad human 
+internal organs",0.85,2.65,response,4
+img-5,3,1,E,5,"badly explained 
+climate change theory",1.25,3.15,response,5
+img-5,3,1,A,1,,1.3,3,image,
+img-6,3,2,A,1,mad grocery bagger,1.8,3.15,response,1
+img-6,3,2,B,2,pet store anteater,2.225,3.225,response,2
+img-6,3,2,C,3,"gone shopping 
+for a zebra",1.725,2.75,response,3
+img-6,3,2,D,4,shopping weevil,2.225,2.6,response,4
+img-6,3,2,E,5,"convicted croissant 
+escapes supermarket",2.3,2.9,response,5
+img-6,3,2,A,1,,1.7,3,image,
